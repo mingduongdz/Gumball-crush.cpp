@@ -1,0 +1,280 @@
+# depslib dependency file v1.0
+1552092752 source:d:\c++ source file\candy crush\src\animation.cpp
+	"Animation.h"
+	"App.h"
+
+1552042586 d:\c++ source file\candy crush\src\animation.h
+	<SDL.h>
+	"Candy.h"
+	"Appconfig.h"
+
+1552062059 d:\c++ source file\candy crush\src\candy.h
+	<SDL.h>
+	"Appconfig.h"
+	"Texture.h"
+	"Sound.h"
+
+1552093129 d:\c++ source file\candy crush\src\appconfig.h
+
+1552051595 d:\c++ source file\candy crush\src\texture.h
+	<SDL.h>
+	<SDL_image.h>
+	<cstdio>
+	<cstdlib>
+	<string>
+	<ctime>
+
+1552032922 d:\c++ source file\candy crush\src\sound.h
+	<SDL_mixer.h>
+	<cstdio>
+
+1551869465 d:\c++ source file\candy crush\src\app.h
+	<SDL.h>
+	<SDL_image.h>
+	<cstdio>
+	<cstdlib>
+	<string>
+	<sstream>
+	<ctime>
+	<Windows.h>
+	"Appconfig.h"
+	"Candy.h"
+	"Texture.h"
+	"Board.h"
+	"Button.h"
+	"CommonFunc.h"
+	"Sound.h"
+
+1552051768 d:\c++ source file\candy crush\src\board.h
+	<SDL.h>
+	"Candy.h"
+	"Animation.h"
+
+1551870639 d:\c++ source file\candy crush\src\button.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"Texture.h"
+	"Sound.h"
+	"Candy.h"
+
+1551869543 d:\c++ source file\candy crush\src\commonfunc.h
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<sstream>
+	"Texture.h"
+	"Appconfig.h"
+
+1552098920 source:d:\c++ source file\candy crush\src\app.cpp
+	"App.h"
+
+1552093060 source:d:\c++ source file\candy crush\src\board.cpp
+	"Board.h"
+	"App.h"
+
+1552051639 source:d:\c++ source file\candy crush\src\button.cpp
+	"Button.h"
+
+1552051369 source:d:\c++ source file\candy crush\src\candy.cpp
+	"Candy.h"
+	"Appconfig.h"
+
+1551620156 source:d:\c++ source file\candy crush\src\commonfunc.cpp
+	"CommonFunc.h"
+
+1551621812 source:d:\c++ source file\candy crush\src\main.cpp
+	"App.h"
+
+1552098920 source:d:\c++ source file\candy crush\src\sound.cpp
+	"Sound.h"
+
+1552051609 source:d:\c++ source file\candy crush\src\texture.cpp
+	"Texture.h"
+
+1577028295 source:c:\users\ideapad 5 pro\downloads\candy-crush-master\candy-crush-master\sound.cpp
+	"Sound.h"
+
+1741538567 c:\users\ideapad 5 pro\downloads\candy-crush-master\candy-crush-master\sound.h
+	<SDL2/SDL_mixer.h>
+	<cstdio>
+
+1577028295 source:c:\users\ideapad 5 pro\downloads\candy-crush-master\candy-crush-master\animation.cpp
+	"Animation.h"
+	"App.h"
+
+1741538493 c:\users\ideapad 5 pro\downloads\candy-crush-master\candy-crush-master\animation.h
+	<SDL2/SDL.h>
+	"Candy.h"
+	"Appconfig.h"
+
+1741538544 c:\users\ideapad 5 pro\downloads\candy-crush-master\candy-crush-master\candy.h
+	<SDL2/SDL.h>
+	"Appconfig.h"
+	"Texture.h"
+	"Sound.h"
+
+1577028295 c:\users\ideapad 5 pro\downloads\candy-crush-master\candy-crush-master\appconfig.h
+
+1741538581 c:\users\ideapad 5 pro\downloads\candy-crush-master\candy-crush-master\texture.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<cstdio>
+	<cstdlib>
+	<string>
+	<ctime>
+
+1741538508 c:\users\ideapad 5 pro\downloads\candy-crush-master\candy-crush-master\app.h
+	<SDL2/SDL.h>
+	<SDl2/SDL_image.h>
+	<cstdio>
+	<cstdlib>
+	<string>
+	<sstream>
+	<ctime>
+	<Windows.h>
+	"Appconfig.h"
+	"Candy.h"
+	"Texture.h"
+	"Board.h"
+	"Button.h"
+	"CommonFunc.h"
+	"Sound.h"
+
+1741538516 c:\users\ideapad 5 pro\downloads\candy-crush-master\candy-crush-master\board.h
+	<SDL2/SDL.h>
+	"Candy.h"
+	"Animation.h"
+
+1741538536 c:\users\ideapad 5 pro\downloads\candy-crush-master\candy-crush-master\button.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	"Texture.h"
+	"Sound.h"
+	"Candy.h"
+
+1741538559 c:\users\ideapad 5 pro\downloads\candy-crush-master\candy-crush-master\commonfunc.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	<sstream>
+	"Texture.h"
+	"Appconfig.h"
+
+1577028295 source:c:\users\ideapad 5 pro\downloads\candy-crush-master\candy-crush-master\app.cpp
+	"App.h"
+
+1577028295 source:c:\users\ideapad 5 pro\downloads\candy-crush-master\candy-crush-master\board.cpp
+	"Board.h"
+	"App.h"
+
+1577028295 source:c:\users\ideapad 5 pro\downloads\candy-crush-master\candy-crush-master\button.cpp
+	"Button.h"
+
+1577028295 source:c:\users\ideapad 5 pro\downloads\candy-crush-master\candy-crush-master\candy.cpp
+	"Candy.h"
+	"Appconfig.h"
+
+1577028295 source:c:\users\ideapad 5 pro\downloads\candy-crush-master\candy-crush-master\commonfunc.cpp
+	"CommonFunc.h"
+
+1577028295 source:c:\users\ideapad 5 pro\downloads\candy-crush-master\candy-crush-master\main.cpp
+	"App.h"
+
+1577028295 source:c:\users\ideapad 5 pro\downloads\candy-crush-master\candy-crush-master\texture.cpp
+	"Texture.h"
+
+1741677017 source:c:\users\pc\downloads\candy-crush-master (2)\candy-crush-master\candy-crush-master\animation.cpp
+	"Animation.h"
+	"App.h"
+
+1741538492 c:\users\pc\downloads\candy-crush-master (2)\candy-crush-master\candy-crush-master\animation.h
+	<SDL2/SDL.h>
+	"Candy.h"
+	"Appconfig.h"
+
+1741538544 c:\users\pc\downloads\candy-crush-master (2)\candy-crush-master\candy-crush-master\candy.h
+	<SDL2/SDL.h>
+	"Appconfig.h"
+	"Texture.h"
+	"Sound.h"
+
+1741684841 c:\users\pc\downloads\candy-crush-master (2)\candy-crush-master\candy-crush-master\appconfig.h
+
+1742360774 c:\users\pc\downloads\candy-crush-master (2)\candy-crush-master\candy-crush-master\texture.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<cstdio>
+	<cstdlib>
+	<string>
+	<ctime>
+
+1741538566 c:\users\pc\downloads\candy-crush-master (2)\candy-crush-master\candy-crush-master\sound.h
+	<SDL2/SDL_mixer.h>
+	<cstdio>
+
+1742007712 c:\users\pc\downloads\candy-crush-master (2)\candy-crush-master\candy-crush-master\app.h
+	<SDL2/SDL.h>
+	<SDl2/SDL_image.h>
+	<cstdio>
+	<cstdlib>
+	<string>
+	<sstream>
+	<ctime>
+	<Windows.h>
+	"Appconfig.h"
+	"Candy.h"
+	"Texture.h"
+	"Board.h"
+	"Button.h"
+	"CommonFunc.h"
+	"Sound.h"
+
+1741538516 c:\users\pc\downloads\candy-crush-master (2)\candy-crush-master\candy-crush-master\board.h
+	<SDL2/SDL.h>
+	"Candy.h"
+	"Animation.h"
+
+1741538536 c:\users\pc\downloads\candy-crush-master (2)\candy-crush-master\candy-crush-master\button.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	"Texture.h"
+	"Sound.h"
+	"Candy.h"
+
+1741538558 c:\users\pc\downloads\candy-crush-master (2)\candy-crush-master\candy-crush-master\commonfunc.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	<sstream>
+	"Texture.h"
+	"Appconfig.h"
+
+1741685551 source:c:\users\pc\downloads\candy-crush-master (2)\candy-crush-master\candy-crush-master\app.cpp
+	"App.h"
+
+1741684021 source:c:\users\pc\downloads\candy-crush-master (2)\candy-crush-master\candy-crush-master\board.cpp
+	"Board.h"
+	"App.h"
+
+1577028294 source:c:\users\pc\downloads\candy-crush-master (2)\candy-crush-master\candy-crush-master\button.cpp
+	"Button.h"
+
+1741684021 source:c:\users\pc\downloads\candy-crush-master (2)\candy-crush-master\candy-crush-master\candy.cpp
+	"Candy.h"
+	"Appconfig.h"
+
+1577028294 source:c:\users\pc\downloads\candy-crush-master (2)\candy-crush-master\candy-crush-master\commonfunc.cpp
+	"CommonFunc.h"
+
+1741856924 source:c:\users\pc\downloads\candy-crush-master (2)\candy-crush-master\candy-crush-master\main.cpp
+	"App.h"
+
+1577028294 source:c:\users\pc\downloads\candy-crush-master (2)\candy-crush-master\candy-crush-master\sound.cpp
+	"Sound.h"
+
+1577028294 source:c:\users\pc\downloads\candy-crush-master (2)\candy-crush-master\candy-crush-master\texture.cpp
+	"Texture.h"
+
