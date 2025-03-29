@@ -11,23 +11,31 @@
 
 ## 📂 Cấu trúc dự án
 ```
-├── src/                # Mã nguồn chính của trò chơi
-│   ├── App.cpp         # Quản lý vòng lặp chính của trò chơi
-│   ├── Board.cpp       # Xử lý logic của bảng kẹo
-│   ├── Button.cpp      # Xử lý nút bấm
-│   ├── Candy.cpp       # Quản lý kẹo và các thao tác liên quan
-│   ├── Texture.cpp     # Quản lý tải và vẽ hình ảnh
-│   ├── Sound.cpp       # Xử lý âm thanh
-│   ├── Animation.cpp   # Xử lý hiệu ứng hoạt ảnh
-│   ├── CommonFunc.cpp  # Các hàm tiện ích chung
-│   ├── main.cpp        # Điểm vào chính của chương trình
-│   └── Appconfig.h     # Cấu hình ứng dụng
+├── Sources/            # Chứa mã nguồn chính  
+│   ├── Animation.cpp   # Xử lý hiệu ứng hoạt ảnh  
+│   ├── App.cpp         # Quản lý vòng lặp chính của trò chơi  
+│   ├── Board.cpp       # Xử lý logic bảng kẹo  
+│   ├── Button.cpp      # Xử lý nút bấm trong giao diện  
+│   ├── Candy.cpp       # Quản lý các viên kẹo và thao tác hoán đổi  
+│   ├── CommonFunc.cpp  # Các hàm tiện ích chung  
+│   ├── main.cpp        # Điểm vào chính của chương trình  
+│   ├── Sound.cpp       # Xử lý âm thanh và nhạc nền  
+│   ├── Texture.cpp     # Quản lý tải và hiển thị hình ảnh  
 │
-├── assets/             # Chứa hình ảnh và âm thanh của trò chơi
+├── Headers/            # Chứa các tệp tiêu đề (header)  
+│   ├── Animation.h     # Khai báo lớp Animation  
+│   ├── App.h           # Khai báo lớp App  
+│   ├── Appconfig.h     # Chứa các thông số cấu hình ứng dụng  
+│   ├── Board.h         # Khai báo lớp Board  
+│   ├── Button.h        # Khai báo lớp Button  
+│   ├── Candy.h         # Khai báo lớp Candy  
+│   ├── CommonFunc.h    # Khai báo các hàm tiện ích chung  
+│   ├── Sound.h         # Khai báo lớp Sound  
+│   ├── Texture.h       # Khai báo lớp Texture  
 │
-├── include/            # Chứa các tệp tiêu đề (header)
-│
-├── README.md           # Hướng dẫn sử dụng và cài đặt
+├── Others/             # Chứa các tệp phụ trợ  
+│   ├── Candy Crush.depend  # Tệp phụ trợ của trình biên dịch  
+
 ```
 
 ## 🛠 Cài đặt
